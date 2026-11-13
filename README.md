@@ -150,9 +150,9 @@ Potential future features include:
 
 ## Team Members
 
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
+- Juan Diego Castillo Chávez
+- David Jared Perez Alvarez
+- Herwin Vincent Gaela
 
 ## Project Status
 
